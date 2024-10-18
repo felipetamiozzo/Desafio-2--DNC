@@ -1,10 +1,4 @@
-# Desafio-2--DNC---Power-BI
-Painel gerencial de marketing com Power BI
-
-
----
-
-# Desafio Power BI: Painel Gerencial Automatizado
+# Painel gerencial de marketing com Power BI
 
 Este repositório contém um **painel gerencial automatizado** desenvolvido no Power BI para uma agência de marketing digital. O objetivo deste desafio foi criar visualizações e relatórios interativos que ajudam a equipe de negócios a tomar decisões estratégicas, visando atingir metas de crescimento.
 
